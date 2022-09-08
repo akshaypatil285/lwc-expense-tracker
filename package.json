@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/akshaypatil285.lwc-l7sl4fr7-fork-l7slpeti",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve BDIwn4xVateW6eUEq2QE --open"
+  }
+}
